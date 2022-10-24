@@ -1,5 +1,7 @@
 # :bookmark_tabs: 42서울 시험 과제를 활용한 교보재
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaee%2F42Piscine&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## **contents**
 
 - [Shell00](https://github.com/ejaee/42Piscine/tree/main/Shell00)
