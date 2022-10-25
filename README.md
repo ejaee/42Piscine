@@ -47,7 +47,7 @@
   
 - [C08](https://github.com/ejaee/42Piscine/tree/main/C08)
 
-  헤더파일 `만들기` 학습을 합니다
+  `헤더파일 만들기` 학습을 합니다
   
 - [C09](https://github.com/ejaee/42Piscine/tree/main/C09)
 
