@@ -3,6 +3,8 @@
 
 # :bookmark_tabs: 42서울 시험 과제를 활용한 교보재
 
+_42보안규정으로 인해 소스파일은 공개하지 않습니다_
+
 ## **contents**
 
 - [Shell00](https://github.com/ejaee/42Piscine/tree/main/Shell00)
